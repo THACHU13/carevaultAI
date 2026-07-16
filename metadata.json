@@ -1,0 +1,6 @@
+{
+  "name": "CareVault AI",
+  "description": "Secure digital medical record repository with AI-assisted summarization, biometric identity verification, and emergency break-glass access dashboard.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
